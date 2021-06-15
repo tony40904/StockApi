@@ -36,4 +36,4 @@
   * to<sup>*</sup>: The last date of the date range. (YYYYMMDD)
   * distinct: Consider distinctly or not. (default true)
 
-##### <sup>*</sup>: required parameter
+<sup>*</sup>: required parameter
